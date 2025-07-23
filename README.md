@@ -30,8 +30,8 @@ I am a highly motivated and detail-oriented software engineering undergraduate w
 | **Languages**   | Java, Python, JavaScript, HTML, CSS |
 | **Frontend**    | React,Next.js, Angular, TypeScript |
 | **Backend**     | Java (Spring Boot), Node.js |
-| **Mobile**      | Android Studio, React Native,Kotlin |
-| **Database**    | MySQL, Firebase,H2,PostgresSQL |
+| **Mobile**      | Android Studio, React Native, Kotlin |
+| **Database**    | MySQL, Firebase, H2, PostgresSQL |
 | **Tools**       | Git, GitHub, IntelliJ IDEA, VS Code, Postman |
 | **Design**      | Figma, Adobe Illustrator, Canva, Adobe Premiere Pro |
 
