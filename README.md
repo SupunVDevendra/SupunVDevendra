@@ -39,9 +39,6 @@ I am a highly motivated and detail-oriented software engineering undergraduate w
 
 ## 📈 GitHub Stats
 
-> Replace the username in the URLs depending on the GitHub account.
-
-```md
 # Personal Account (SupunVirajDevendra)
 ![Supun's GitHub stats](https://github.com/SupunVirajDevendra)
 
