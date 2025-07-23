@@ -39,11 +39,21 @@ I am a highly motivated and detail-oriented software engineering undergraduate w
 
 ## 📈 GitHub Stats
 
-# Personal Account (SupunVirajDevendra)
-![Supun's GitHub stats](https://github.com/SupunVirajDevendra)
+<table>
+  <tr>
+    <td align="center">
+      <strong>👤 Personal GitHub</strong><br>
+      <a href="https://github.com/SupunVirajDevendra" target="_blank">github.com/SupunVirajDevendra</a><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=SupunVirajDevendra&show_icons=true&theme=default&hide_border=true" alt="Personal GitHub Stats"/>
+    </td>
+    <td align="center">
+      <strong>🏢 Office GitHub</strong><br>
+      <a href="https://github.com/SupunVDevendra" target="_blank">github.com/SupunVDevendra</a><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=SupunVDevendra&show_icons=true&theme=default&hide_border=true" alt="Office GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
-# Office Account (SupunVDevendra)
-![Supun's GitHub stats](https://github.com/SupunVDevendra)
 
 ---
 
